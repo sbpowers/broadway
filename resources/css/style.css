@@ -1,0 +1,53 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+body{
+}
+
+
+.title {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  background-image: url("file:///Users/steve/GitHub/broadway_design/resources/images/the-flatiron-building.png");
+}
+
+.banner {
+  text-align: center;
+  font-weight: bold;
+  color: white;
+  background-image: url("file:///Users/steve/GitHub/broadway_design/resources/images/the-flatiron-building.png");
+}
+
+h1.title {
+  font-size: 70px;
+}
+
+p.title {
+  font-size: 18px;
+}
+
+h2 {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-family: Helvetica;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+h4 {
+  font-family: Helvetica;
+  font-size: 18px;
+  font-weight: normal;
+}
+
+p{
+  font-family: Helvetica;
+  font-size: 14px;
+}
