@@ -11,14 +11,14 @@ body{
   text-align: center;
   font-weight: bold;
   color: white;
-  background-image: url("file:///Users/steve/GitHub/broadway_design/resources/images/the-flatiron-building.png");
+  background-image: url("/resources/images/the-flatiron-building.png");
 }
 
 .banner {
   text-align: center;
   font-weight: bold;
   color: white;
-  background-image: url("file:///Users/steve/GitHub/broadway_design/resources/images/the-flatiron-building.png");
+  background-image: url("/resources/images/the-flatiron-building.png");
 }
 
 h1.title {
