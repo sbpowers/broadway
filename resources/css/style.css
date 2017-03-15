@@ -21,6 +21,13 @@ body{
   background-image: url("../images/the-flatiron-building.png");
 }
 
+.footer {
+  text-align: left;
+  font-weight: bold;
+  color: white;
+  background-image: url("../images/the-flatiron-building.png");
+}
+
 h1.title {
   font-size: 70px;
 }
